@@ -1,40 +1,53 @@
-<div align="left">
+<div align="center">
 
-# Hey there 👋, I'm Deepak Yadav
+# Hi, I'm Deepak Yadav 👋
 
-Focused on building reliable software systems and exploring the intersection of backend engineering, AI, and modern web development.
+### Backend Engineer | Java & Spring Boot | Exploring AI Engineering
 
-## Backend Engineering · AI Engineering · Full Stack Development
-
-- 🔭 Full Stack Developer with a strong focus on **Backend Engineering**
-- ☕ Building scalable, production-grade applications with **Java & Spring Boot**
-- 🤖 Exploring AI-powered systems using **RAG Pipelines**, **LangChain**, and **LangGraph**
-- ⚛️ Developing modern web applications with **ReactJS**
-- 🎯 Focus Areas: **REST APIs, Spring Security, JPA/Hibernate, Microservices, and LLM Integrations**
-
-## Technologies
-
-Java • Spring Boot • Microservices • Python • ReactJS • AWS • Git • GitHub Actions • Jenkins • RAG • LangChain • LangGraph 
-
----
-
-## Featured Projects
-
-| Project | Stack | Description |
-| :--- | :--- | :--- |
-| **[Trackify](https://github.com/deepakydv25/trackify)** | Java · Spring Boot · React · Kafka · PostgreSQL | Personal finance platform for expense tracking, budgeting, and payment reminders. |
-| **[docRAG](https://github.com/deepakydv25/docRAG)** | Python · LangChain · RAG | AI-powered document question answering using Retrieval-Augmented Generation. |
-| **[portfolio-tracker](https://github.com/deepakydv25/portfolio-tracker)** | React · TypeScript · Python | Investment portfolio dashboard with real-time market data and analytics. |
-| **[YoutubeClone](https://github.com/deepakydv25/YoutubeClone)** | React · Redux · Tailwind CSS | YouTube-inspired video streaming application with search and recommendations. |
-| **[FoodApp](https://github.com/deepakydv25/FoodApp)** | React · Tailwind CSS · Swiggy API | Food delivery application with real-time restaurant and menu discovery. |
-
----
-
-## 🤝 Connect with me
+I build backend systems and full-stack applications, with a growing focus on understanding how LLMs work and building useful AI-powered software.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deepakydv25)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-yadav-69774518b/)
 
+</div>
+
+## 👨‍💻 About Me
+
+- 💻 Working with **Java, Spring Boot, REST APIs, and backend integrations**.
+- 🏗️ Interested in **backend architecture, databases, testing, and reliable deployments**.
+- 🤖 Learning **AI engineering**, from tokens, embeddings, attention, and inference to building tool-using AI applications.
+- 🌐 Building hands-on projects with **Java, Python, React, TypeScript, and PostgreSQL**.
+- 🎯 My focus: becoming a stronger backend engineer who can **design, build, and deploy AI-powered products**.
+
+## 🛠️ Tech Stack
+
+**Backend:** Java · Spring Boot · REST APIs · Spring Data JPA · PostgreSQL  
+**Frontend:** React · TypeScript · Next.js  
+**AI & Learning:** Python · LLM Fundamentals · Tool-Using Agents · RAG Concepts  
+**Tools & Infrastructure:** Git · Docker · Maven · GitHub Actions · Jenkins · AWS · Postman
+
+## 🚀 Featured Project
+
+### [CoinTrail](https://github.com/deepakydv25/cointrail)
+
+A personal finance backend project focused on practical, production-style backend engineering.
+
+- **Stack:** Java, Spring Boot, PostgreSQL, Maven, Docker
+- **Features explored:** expense and transaction APIs, validation, pagination, filtering, database migrations, and security
+- **Engineering practices:** integration testing, CI, and deployment workflows
+
+## 📚 What I'm Learning
+
+- **LLM fundamentals:** tokenization, token IDs, embeddings, attention, Transformer architecture, and inference
+- **AI application engineering:** model APIs, tool calling, agents, and retrieval-based systems
+- **Backend engineering:** API design, security, transactions, concurrency, and service architecture
+
+I learn by building, experimenting, and documenting the concepts I study.
+
 ---
+
+<div align="center">
+
+**Building strong backend foundations. Learning AI deeply. Turning ideas into working software.**
 
 </div>
