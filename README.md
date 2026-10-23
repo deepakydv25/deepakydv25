@@ -1,37 +1,16 @@
-<div align="center">
+# Hi, I'm Deepak.
 
-# Hi, I'm Deepak Yadav 👋
+I'm a software engineer focused on building reliable backend systems with Java and Spring Boot. I enjoy learning how modern AI systems work and turning ideas into practical applications.
 
-### Backend Engineer | Java & Spring Boot | Exploring AI Engineering
+### What I'm working on
 
-I build backend systems and full-stack applications, with a growing focus on understanding how LLMs work and building useful AI-powered software.
+- **Backend engineering** — APIs, databases, integrations, testing, and deployments.
+- **AI engineering** — LLM fundamentals, inference, and tool-using applications.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deepakydv25)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-yadav-69774518b/)
+### Projects
 
-</div>
+**[CoinTrail](https://github.com/deepakydv25/cointrail)** — A personal finance application built with Spring Boot, React, and PostgreSQL. [Live ↗](https://cointrail-dy.vercel.app/)
 
-## 👨‍💻 About Me
+### Elsewhere
 
-- 💻 Working with **Java, Spring Boot, REST APIs, and backend integrations**.
-- 🏗️ Interested in **backend architecture, databases, testing, and reliable deployments**.
-- 🤖 Learning **AI engineering**, from tokens, embeddings, attention, and inference to building tool-using AI applications.
-- 🌐 Building hands-on projects with **Java, Python, React, TypeScript, and PostgreSQL**.
-- 🎯 My focus: becoming a stronger backend engineer who can **design, build, and deploy AI-powered products**.
-
-## 🛠️ Tech Stack
-
-**Backend:** Java · Spring Boot · REST APIs · Spring Data JPA · PostgreSQL  
-**Frontend:** React · TypeScript · Next.js  
-**AI & Learning:** Python · LLM Fundamentals · Tool-Using Agents · RAG Concepts  
-**Tools & Infrastructure:** Git · Docker · Maven · GitHub Actions · Jenkins · AWS · Postman
-
-## 🚀 Featured Project
-
-### [CoinTrail](https://github.com/deepakydv25/cointrail)
-
-A personal finance backend project focused on practical, production-style backend engineering.
-
-- **Stack:** Java, Spring Boot, PostgreSQL, Maven, Docker
-- **Features explored:** expense and transaction APIs, validation, pagination, filtering, database migrations, and security
-- **Engineering practices:** integration testing, CI, and deployment workflows
+[Website ↗](https://dydv.in/) · [LinkedIn ↗](https://www.linkedin.com/in/deepak-yadav-69774518b/) · [GitHub ↗](https://github.com/deepakydv25)
